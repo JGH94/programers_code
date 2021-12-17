@@ -4,3 +4,4 @@
 2. input data에서 생성할 수 있는 모든 조합에서 소수인 data 확인
 3. 2018 KAKAO BLIND RECRUITMENT [1차] 뉴스 클러스터링 문제
 4. 2019 KAKAO BLIND RECRUITMENT 오픈채팅방 문제
+5. 2019 카카오 개발자 겨울 인턴십 튜플 문제
