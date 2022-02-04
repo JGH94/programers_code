@@ -23,3 +23,6 @@
 21. H-Index
 22. 월간 코드 챌린지 시즌2 2개 이하로 다른 비트
 23. Summer/Winter Coding(~2018) 영어 끝말잇기
+24. Summer/Winter Coding(~2018) 스킬트리
+25. 2018 KAKAO BLIND RECRUITMENT [1차] 추석 트래픽
+
