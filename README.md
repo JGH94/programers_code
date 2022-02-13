@@ -29,4 +29,5 @@
 27. 2020 KAKAO BLIND RECRUITMENT 자물쇠와 열쇠
 28. 동적계획법(Dynamic Programming) N으로 표현
 29. 이분탐색 입국심사
+30. 순위
 
