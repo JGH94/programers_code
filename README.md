@@ -33,4 +33,7 @@
 31. 디스크 컨트롤러
 32. 카카오 인턴쉽 보석 쇼핑
 33. 깊이/너비 우선 탐색(DFS/BFS) 네트워크
+34. 그래프 가장 먼 노드
+35. 2018 KAKAO BLIND RECRUITMENT [1차] 셔틀버스
+36. 2022 KAKAO BLIND RECRUITMENT 주차 요금 계산
 
